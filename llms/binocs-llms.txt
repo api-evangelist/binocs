@@ -1,0 +1,20 @@
+# Binocs
+
+> Agentic AI-powered due diligence and strategic advisory platform for financial professionals — private equity, consulting, corporates and portfolio companies spanning private credit, venture capital and venture debt. Delivers decision-ready diligence in minutes at a fraction of traditional consulting cost.
+
+Binocs is a SaaS application (app.binocs.co). It does not currently publish a public developer API, SDKs, or developer documentation. The links below are the public product, legal, and security surfaces.
+
+## Product
+- [Binocs](https://binocs.co/): Product overview — deal sourcing/screening, investment memos, market assessment, financial statement analysis, growth & pricing diagnostics, CRM integration, sell-side documentation (CIM, teasers).
+- [Sign up](https://app.binocs.co/signup): Create an account / access the application.
+- [Book a demo](https://calendly.com/saurabh-binocs/30min): Schedule a product walkthrough.
+- [Case studies](https://binocs.co/case-study): Customer case studies.
+
+## Docs
+- [Blog](https://binocs.co/blog): Product and industry articles.
+- [About](https://binocs.co/about): Company information.
+
+## Security & Legal
+- [Security](https://binocs.co/security): Security posture — SOC 2 compliant; AWS hosting, Cloudflare, SSL/TLS in transit, AES-256 at rest, MFA, regular audits.
+- [Privacy Policy](https://binocs.co/privacy-policy)
+- [Terms & Conditions](https://binocs.co/terms-and-conditions)

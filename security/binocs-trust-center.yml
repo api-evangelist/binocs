@@ -1,0 +1,12 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://binocs.co/security
+url: https://binocs.co/security
+certifications:
+- SOC 2
+evidence:
+- source: https://binocs.co/security
+  keywords:
+  - soc 2
+  - soc2

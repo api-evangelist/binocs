@@ -1,7 +1,16 @@
 aid: binocs
 name: Binocs
-description: 'Binocs is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Binocs is an agentic AI-powered due diligence and strategic advisory platform
+  for financial professionals — private equity, consulting, corporates and
+  portfolio companies spanning private credit, venture capital and venture debt.
+  The SaaS product (app.binocs.co) automates deal sourcing and screening,
+  investment memos and market assessment, financial statement analysis, growth
+  strategy and pricing diagnostics, CRM integration, and sell-side documentation
+  (CIM, teasers), promising decision-ready diligence in minutes at up to 90%
+  lower cost than traditional consulting. Binocs is an Accel portfolio company
+  with offices in Jersey City, NJ and Bengaluru, India. It does not currently
+  publish a public developer API, SDKs, or developer documentation.
 url: https://raw.githubusercontent.com/api-evangelist/binocs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +18,29 @@ x-backed-by:
 - accel
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://binocs.co/assets/linkImage.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
-- Crypto
+- Fintech
+- Due Diligence
+- Private Equity
+- Artificial Intelligence
+- Financial Services
+- Advisory
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +50,26 @@ maintainers:
 common:
 - type: Website
   url: https://binocs.co/
+- type: SignUp
+  url: https://app.binocs.co/signup
+- type: Blog
+  url: https://binocs.co/blog
+- type: Security
+  url: https://binocs.co/security
+- type: Compliance
+  url: https://binocs.co/security
+- type: TermsOfService
+  url: https://binocs.co/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://binocs.co/privacy-policy
+- type: TrustCenter
+  url: security/binocs-trust-center.yml
+- type: DomainSecurity
+  url: security/binocs-domain-security.yml
+- type: LLMsTxt
+  url: llms/binocs-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
