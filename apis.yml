@@ -50,7 +50,7 @@ tags:
 - Due Diligence
 - Private Equity
 - Artificial Intelligence
-- Financial-Services
+- Financial Services
 - Advisory
 tags_raw:
 - Company
@@ -60,6 +60,7 @@ tags_raw:
 - Artificial Intelligence
 - Financial Services
 - Advisory
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
